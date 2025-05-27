@@ -2,4 +2,3 @@ flask
 numpy
 matplotlib
 pandas
-sqlite3
